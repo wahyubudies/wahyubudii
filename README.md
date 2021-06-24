@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wahyu Budi</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+<h1>Hi 👋, I'm Wahyu Budi</h1>
+<h3>A passionate web developer from Indonesia</h3>
 
 - 🔭 I’m currently intern on [CMLABS CO](https://cmlabs.co)
 
