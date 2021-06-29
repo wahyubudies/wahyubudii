@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Wahyu Budi</h1>
+<h1>Hi 👋, I'm Wahyu Budi S</h1>
 <h3>A passionate web developer from Indonesia</h3>
 
 - 🔭 I’m currently intern on [CMLABS CO](https://cmlabs.co)
