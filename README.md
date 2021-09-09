@@ -48,9 +48,6 @@
     <a href="https://www.linux.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
     </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height=305"/>
-    </a> 
     <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
     </a> 
@@ -60,9 +57,6 @@
     <a href="https://www.php.net" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
     </a>
-    <a href="https://vuejs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
-    </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
     </a>
